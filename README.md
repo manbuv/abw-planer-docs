@@ -1,2 +1,2 @@
-# abw-planer-docs
+# Dokumentation ABW-Planer
 Dokumentation ABW-Planer
