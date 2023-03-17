@@ -4,4 +4,5 @@
 ABW-Planer Dokumentation
 ##########################
 
-Dokumentation zum `ABW-Planer <https://abw-planer.de>`
+
+Dokumentation zum `ABW-Planer <https://abw-planer.de>`_ 
